@@ -1,11 +1,5 @@
 # Резюме для поиска работы: Алексей Кащенко
 
-![pic](C:\Users\hallo\Downloads\IMG_20190808_184700.jpg "photo") 
-
-<img src="C:\Users\hallo\Downloads\IMG_20190808_184700.jpg">
-
-# ![pic]("\IMG_20190808_184700.jpg")  
-
 ## Опыт работы 
 
 ### 04.2018 - 09.2022
